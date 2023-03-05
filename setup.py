@@ -22,8 +22,8 @@ setuptools.setup(
     url="https://github.com/wizkiye/pychapa",
     packages=setuptools.find_packages(),
     project_urls={
-        "Source": "https://github.com/wizkiye/chapa",
-        "Bug Tracker": "https://github.com/chapimenge3/wizkiye/issues",
+        "Source": "https://github.com/wizkiye/pychapa",
+        "Bug Tracker": "https://github.com/wizkiye/pychapa/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
